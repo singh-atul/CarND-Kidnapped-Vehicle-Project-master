@@ -47,7 +47,7 @@ Tips for setting up your environment can be found [here](https://classroom.udaci
 
 Each major step involved in implementation is shown below 
 
-![particles-filter-implementation](https://raw.github.com/singh-atul/CarND-Kidnapped-Vehicle-Project-master/blob/master/image-resources/initialization.png)
+![particles-filter-implementation](https://github.com/singh-atul/CarND-Kidnapped-Vehicle-Project-master/blob/master/image-resources/initialization.png)
 
 
 The code implentation of these steps are present in particles.cpp file.
