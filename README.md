@@ -47,7 +47,7 @@ Tips for setting up your environment can be found [here](https://classroom.udaci
 
 Each major step involved in implementation is shown below 
 
-###### 
+![particles-filter-implementation](https://raw.github.com/singh-atul/CarND-Kidnapped-Vehicle-Project-master/blob/master/image-resources/initialization.png)
 
 
 The code implentation of these steps are present in particles.cpp file.
@@ -93,11 +93,11 @@ Inputs to the particle filter in the `data` directory.
 Particle filter implemented was run on Udacity's simulator and its error and performance was noted. Below are the results with 20 and 100 particles respectively:
 
 Run 1 : 20 particle
+![particle-filter-20-particles](https://raw.github.com/singh-atul/CarND-Kidnapped-Vehicle-Project-master/blob/master/image-resources/20particle.png)
 
-####
 
 Run 2 : 100 particle
-
+![particle-filter-100-particles](https://raw.github.com/singh-atul/CarND-Kidnapped-Vehicle-Project-master/blob/master/image-resources/200particle.png)
 ####
 
 
